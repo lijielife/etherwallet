@@ -1,0 +1,50 @@
+{
+  "_from": "crypto-icons@^1.0.10",
+  "_id": "crypto-icons@1.0.11",
+  "_inBundle": false,
+  "_integrity": "sha512-7BGV+8xoAH867kID8VSb7hkn2sYLJv1qYhXPAHiyErMJ3+uIOwc82UkTCoOMcC5+zVI7ZaKArqCnqj5X01gNzg==",
+  "_location": "/crypto-icons",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "crypto-icons@^1.0.10",
+    "name": "crypto-icons",
+    "escapedName": "crypto-icons",
+    "rawSpec": "^1.0.10",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.10"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/crypto-icons/-/crypto-icons-1.0.11.tgz",
+  "_shasum": "b58316dbf95c512683aad916012116e2e4a15f80",
+  "_spec": "crypto-icons@^1.0.10",
+  "_where": "C:\\Users\\fgyhhg\\Downloads\\CEW_3",
+  "author": {
+    "name": "Guarda co"
+  },
+  "bugs": {
+    "url": "https://github.com/guardaco/crypto-icons/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Guarda is glad to present our set of icons for various cryptocurrencies and tokens that can be downloaded and used completely for free.",
+  "homepage": "https://github.com/guardaco/crypto-icons#readme",
+  "keywords": [
+    "cryptocurrencies",
+    "icons",
+    "svg",
+    "svg-icons"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "crypto-icons",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guardaco/crypto-icons.git"
+  },
+  "version": "1.0.11"
+}
